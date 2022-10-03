@@ -1,0 +1,3 @@
+total = input("How many students?")
+group= input("Required group size?")
+print("THere will be ", float(total)/float(group), "groups with ",float(total)%float(group), "students left over")
