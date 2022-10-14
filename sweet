@@ -1,0 +1,4 @@
+sweets =  int(input("how many sweets"))
+students = int(input("how many students"))
+
+print ("each student will have: ", sweets / students, "and there will be this many left over", sweets //students)
